@@ -24,7 +24,7 @@ footer{text-align:center;color:var(--muted);font:14px system-ui,sans-serif;paddi
 </style></head><body>
 <header><div><small>Information Assurance · Blog</small>
 <h1>Auditing Our Own Work: Revisiting a Risk Assessment Through an Auditor's Eyes</h1>
-<p>October 11, 2026</p></div></header>
+<p>By: Edrian Alvizo </p></div></header>
 <main><p>When our group finished its risk assessment of a small local government office, we felt good about it. We had interviewed staff, identified ten to eleven risk scenarios, scored them with an impact-times-probability matrix, recommended treatments, and shown that several "Significant" risks dropped to "Low" after treatment. It looked finished.</p>
 <p>Then we reread the form pretending to be an auditor, and the confidence faded a little. An auditor does not ask, "Did you think about risk?" An auditor asks three harder questions: <strong>Do you know what you own? Do you know who is responsible for it? Can you prove your controls actually work?</strong> This post is our honest attempt to answer those questions about the office we assessed, and to explain how an asset inventory and an audit checklist would make our recommended treatments stronger. To protect the organization, I refer to it only as "the office" and describe findings in general terms, without naming people or describing how any weakness could be exploited.</p>
 <h2>What the office owns, and what mattered most</h2>
